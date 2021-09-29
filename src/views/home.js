@@ -11,7 +11,7 @@ const Home = () => {
         <title>New Project12</title>
         <meta property="og:title" content="New Project12" />
       </Helmet>
-      <span>Test Github Pages</span>
+      <span>Test Github Pagess</span>
     </div>
   )
 }
